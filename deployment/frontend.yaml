@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: quyendd2405/udagram-frontend:v7
+        image: quyendd2405/udagram-frontend:v1
         imagePullPolicy: Always
         ports: 
         - containerPort: 80
